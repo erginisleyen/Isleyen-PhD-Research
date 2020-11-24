@@ -61,7 +61,6 @@ inputs, classes = next(iter(dataloaders['train']))
 # Make a grid from batch
 out = torchvision.utils.make_grid(inputs)
 
-
 def train_model(model, criterion, optimizer, scheduler, num_epochs=25):
     since = time.time()
 
