@@ -3,6 +3,8 @@ This repository contains the scripts used in the thesis "Development of Artifici
 
 Mining Engineering Department, Colorado School of Mines.
 
+The data used in this thesis can be requested from the author at isleyen@mines.edu. 
+
 ***CNN_TransferLearning.py***
 
 Training and validation of a ResNet-152 Convolutional Neural Network pre-trained on ImageNet dataset.
